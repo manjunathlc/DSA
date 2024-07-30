@@ -1,4 +1,4 @@
-package Numbers;
+package numbers;
 
 public class CheckPrimeNumber {
     public static boolean isPrime(int number) {
